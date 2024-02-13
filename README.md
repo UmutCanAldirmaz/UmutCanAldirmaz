@@ -3,9 +3,10 @@
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif"/>
 </div>
  About Me :
-<h3 align="center">I am a Mobile Developer in Turkey</h3>
+<h3 align="center">I am a Software Specialist Assistant in Turkey</h3>
 
-- 🌱 I’m currently learning **Java,Kotlin and Flutter**
+- 🌱 I’m currently learning **Kotlin**
+- ⚡ Languages I've experienced { "Java","Flutter","C#","C++"}
 
 - 📫 How to reach me **ucan.aldirmaz@gmail.com**
 
