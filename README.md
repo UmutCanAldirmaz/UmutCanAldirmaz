@@ -4,7 +4,12 @@
 </div>
 <h3 align="center">I am a Android Developer in Turkey</h3>
 # 💫 About Me: 
-🔭 Developing an Android app with Kotlin and REST API integration.<br><br>👯 Open-source Android projects using modern frameworks.<br><br>🤝 Optimizing app performance and Jetpack Compose.<br><br>🌱 Jetpack Compose and coroutines for Android.<br><br>💬 Android dev, Kotlin, and UI design.<br><br>⚡  I tried Kotlin because I liked its name, loved it after experimenting, and that’s how I started!<br><br>
+<br>🔭 Developing an Android app with Kotlin and REST API integration.<br>
+<br>👯 Open-source Android projects using modern frameworks.<br>
+<br>🤝 Optimizing app performance and Jetpack Compose.<br>
+<br>🌱 Jetpack Compose and coroutines for Android.<br>
+<br>💬 Android dev, Kotlin, and UI design.<br>
+<br>⚡ I tried Kotlin because I liked its name, loved it after experimenting, and that’s how I started!<br><br>
 
 
 ## 🌐 Socials:
