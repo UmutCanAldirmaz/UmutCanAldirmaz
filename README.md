@@ -13,7 +13,7 @@
 
 
 ## 🌐 Socials:
-![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) (mailto:ucan.aldirmaz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ucan.aldirmaz@gmail.com)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
