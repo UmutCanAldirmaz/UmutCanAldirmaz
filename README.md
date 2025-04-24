@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut Can Aldırmaz</h1>
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z3emgzOXVtdWN0NTExc2ViZ3RpaG1ieG5ydWN1aW1qZ3pveGcycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif)"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z3emgzOXVtdWN0NTExc2ViZ3RpaG1ieG5ydWN1aW1qZ3pveGcycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif"/>
 </div>
  About Me :
 <h3 align="center">I am a Android Developer in Turkey</h3>
