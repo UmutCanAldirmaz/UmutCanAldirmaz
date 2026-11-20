@@ -1,0 +1,22 @@
+name: Latest Medium Posts
+
+on:
+  schedule:
+    # Her gün bir kez (UTC 06:00) Medium yazılarını kontrol eder
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@ucan.aldirmaz"
+          max_post_count: 5
