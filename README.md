@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F52FF¢er=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Umut+Can+Ald%C4%B1rmaz;Android+Developer+from+Turkey+%F0%9F%87%B9%F0%9F%87%B7;Kotlin+%26+Jetpack+Compose+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/UmutCanAldirmaz/UmutCanAldirmaz/main/assets/banner.gif" width="100%" alt="Umut Can Aldırmaz" />
 </div>
 
 ## 💫 About Me
