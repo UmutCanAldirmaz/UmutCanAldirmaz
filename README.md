@@ -74,10 +74,6 @@ object UmutCanAldirmaz {
 
 <br />
 
-<div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=UmutCanAldirmaz&theme=tokyonight&bg_color=0d1117&title_color=7F52FF&icon_color=00E5FF&hide_border=true&hide=prs,issues" alt="GitHub Stats" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutCanAldirmaz&theme=tokyonight&bg_color=0d1117&title_color=7F52FF&hide_border=true&layout=compact&hide=c,cmake,objective-c" alt="Top Languages" />
-</div>
 
 ---
 
