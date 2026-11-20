@@ -74,3 +74,10 @@ object UmutCanAldirmaz {
     <img alt="github-snake" src="https://raw.githubusercontent.com/UmutCanAldirmaz/UmutCanAldirmaz/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
+
+---
+
+### ✍️ Latest Medium Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
