@@ -1,42 +1,52 @@
-<h1 align="center">Hi 👋, I'm Umut Can Aldırmaz</h1>
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z3emgzOXVtdWN0NTExc2ViZ3RpaG1ieG5ydWN1aW1qZ3pveGcycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F52FF¢er=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Umut+Can+Ald%C4%B1rmaz;Android+Developer+from+Turkey+%F0%9F%87%B9%F0%9F%87%B7;Kotlin+%26+Jetpack+Compose+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
-<h3 align="center">I am a Android Developer in Turkey</h3>
-# 💫 About Me: 
-<br>🔭 Developing an Android app with Kotlin and REST API integration.<br>
-<br>👯 Open-source Android projects using modern frameworks.<br>
-<br>🤝 Optimizing app performance and Jetpack Compose.<br>
-<br>🌱 Jetpack Compose and coroutines for Android.<br>
-<br>💬 Android dev, Kotlin, and UI design.<br>
-<br>⚡ I tried Kotlin because I liked its name, loved it after experimenting, and that’s how I started!<br><br>
 
+## 💫 About Me
 
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ucan.aldirmaz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umutcanaldirmaz) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ucan.aldirmaz) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umut.cnal)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NozomiJinsei)
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+- 🔭 Currently building **Android** applications using **Kotlin**, **Jetpack Compose**, and REST APIs.
+- 🌱 Deepening my expertise in **Coroutines**, **app performance optimization**, and modern Android architecture.
+- 👯 Open to collaborating on **open-source Android projects**.
+- 💬 Ask me about **Android development, Kotlin, and UI design**.
+- ⚡ Fun fact: *I tried Kotlin simply because I liked its name, fell in love with it after experimenting, and never looked back!*
 
+## 🌐 Connect with Me
 
+<p align="left">
+  <a href="mailto:ucan.aldirmaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/umutcanaldirmaz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@ucan.aldirmaz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://x.com/NozomiJinsei"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/umut.cnal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UmutCanAldirmaz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UmutCanAldirmaz&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutCanAldirmaz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Mobile & Languages**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+**Tools & Platforms**  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UmutCanAldirmaz&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=UmutCanAldirmaz&icon=1&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=UmutCanAldirmaz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&hide=prs,issues" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutCanAldirmaz&theme=gruvbox&hide_border=false&layout=compact&hide=cmake" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
+</p>
