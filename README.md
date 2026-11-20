@@ -80,4 +80,9 @@ object UmutCanAldirmaz {
 ### ✍️ Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Yapay Zeka Hangi Meslekleri Etkiliyor? Microsoft’tan 200.000 Konuşmalık Dev Analiz](https://medium.com/@ucan.aldirmaz/yapay-zeka-hangi-meslekleri-etkiliyor-microsofttan-200-000-konu%C5%9Fmal%C4%B1k-dev-analiz-8a3f3eebd97e?source=rss-3e4b4ce0679e------2)
+- [Kotlin Life Series 7: Inheritance and Interfaces](https://medium.com/@ucan.aldirmaz/kotlin-life-series-7-inheritance-and-interfaces-38455c26c0d0?source=rss-3e4b4ce0679e------2)
+- [Kotlin Yaşam Serisi 7: Miras ve Arayüzler](https://medium.com/@ucan.aldirmaz/kotlin-ya%C5%9Fam-serisi-7-miras-ve-aray%C3%BCzler-c8423efe1084?source=rss-3e4b4ce0679e------2)
+- [The AI Trap for the Next Generation of Developers: Are We Forgetting to Code?](https://medium.com/@ucan.aldirmaz/the-ai-trap-for-the-next-generation-of-developers-are-we-forgetting-to-code-c23c2c94bcb4?source=rss-3e4b4ce0679e------2)
+- [Yeni Nesil Geliştiricilerin AI Kapanı: Kod Yazmayı Unutuyor muyuz?](https://medium.com/@ucan.aldirmaz/yeni-nesil-geli%C5%9Ftiricilerin-ai-kapan%C4%B1-kod-yazmay%C4%B1-unutuyor-muyuz-1c88a1c5fb56?source=rss-3e4b4ce0679e------2)
 <!-- BLOG-POST-LIST:END -->
