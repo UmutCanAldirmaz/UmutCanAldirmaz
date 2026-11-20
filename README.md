@@ -65,17 +65,6 @@ object UmutCanAldirmaz {
 
 ---
 
-<!-- AKTİVİTE & İSTATİSTİKLER -->
-### 📊 Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmutCanAldirmaz&bg_color=0d1117&color=00E5FF&line=7F52FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br />
-
-
----
 
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
